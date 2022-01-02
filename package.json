@@ -1,0 +1,13 @@
+{
+  "name": "genshin-piano",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@nut-tree/nut-js": "^1.7.0",
+    "jazz-midi": "^1.7.5",
+    "midi": "^2.0.0",
+    "midi-player-js": "^2.0.16"
+  }
+}
